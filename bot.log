@@ -1,0 +1,56 @@
+2025-12-13 18:13:22,957 DEBUG:on_ready has successfully been registered as an event
+2025-12-13 18:13:22,958 DEBUG:on_connect has successfully been registered as an event
+2025-12-13 18:13:22,958 DEBUG:on_command_error has successfully been registered as an event
+2025-12-13 18:13:22,958 DEBUG:Using proactor: IocpProactor
+2025-12-13 18:13:22,960 INFO:logging in using static token
+2025-12-13 18:22:22,442 DEBUG:on_ready has successfully been registered as an event
+2025-12-13 18:22:22,443 DEBUG:on_connect has successfully been registered as an event
+2025-12-13 18:22:22,443 DEBUG:on_command_error has successfully been registered as an event
+2025-12-13 18:22:22,444 DEBUG:Using proactor: IocpProactor
+2025-12-13 18:22:22,445 INFO:logging in using static token
+2025-12-13 18:23:59,239 DEBUG:on_ready has successfully been registered as an event
+2025-12-13 18:23:59,239 DEBUG:on_connect has successfully been registered as an event
+2025-12-13 18:23:59,239 DEBUG:on_command_error has successfully been registered as an event
+2025-12-13 18:23:59,240 DEBUG:Using proactor: IocpProactor
+2025-12-13 18:23:59,241 INFO:logging in using static token
+2025-12-13 18:24:00,874 INFO:Shard ID None has connected to Gateway (Session ID: d8eebb54589070845bf55436dea15e65).
+2025-12-13 18:24:00,875 INFO:Bot connected.
+2025-12-13 18:24:02,878 INFO:Logged in as woot#3355
+2025-12-13 18:24:02,883 INFO:Loaded extension bot_commands.paginated_help
+2025-12-13 18:24:02,886 INFO:Loaded extension bot_commands.ping
+2025-12-13 18:24:02,888 INFO:Loaded extension bot_commands.userinfo
+2025-12-13 18:24:02,890 INFO:Loaded extension bot_commands.serverinfo
+2025-12-13 18:24:02,892 INFO:Loaded extension bot_commands.mute
+2025-12-13 18:24:02,895 INFO:Loaded extension bot_commands.unmute
+2025-12-13 18:24:02,897 INFO:Loaded extension bot_commands.kick
+2025-12-13 18:24:02,900 INFO:Loaded extension bot_commands.ban
+2025-12-13 18:24:02,903 INFO:Loaded extension bot_commands.unban
+2025-12-13 18:24:02,906 INFO:Loaded extension bot_commands.clear
+2025-12-13 18:24:02,908 INFO:Loaded extension bot_commands.roll
+2025-12-13 18:24:02,911 INFO:Loaded extension bot_commands.clone_category
+2025-12-13 18:24:02,915 INFO:Loaded extension bot_commands.restart
+2025-12-13 18:24:03,445 INFO:Music Cog initialized
+2025-12-13 18:24:03,445 INFO:Loaded extension bot_commands.music
+2025-12-13 20:59:56,299 DEBUG:on_ready has successfully been registered as an event
+2025-12-13 20:59:56,301 DEBUG:on_connect has successfully been registered as an event
+2025-12-13 20:59:56,301 DEBUG:on_command_error has successfully been registered as an event
+2025-12-13 20:59:56,301 DEBUG:Using proactor: IocpProactor
+2025-12-13 20:59:56,310 INFO:logging in using static token
+2025-12-13 20:59:58,249 INFO:Shard ID None has connected to Gateway (Session ID: e3be6c0c31fd1bf1969873370e6826f2).
+2025-12-13 20:59:58,250 INFO:Bot connected.
+2025-12-13 21:00:00,255 INFO:Logged in as woot#3355
+2025-12-13 21:00:00,260 INFO:Loaded extension bot_commands.paginated_help
+2025-12-13 21:00:00,262 INFO:Loaded extension bot_commands.ping
+2025-12-13 21:00:00,264 INFO:Loaded extension bot_commands.userinfo
+2025-12-13 21:00:00,266 INFO:Loaded extension bot_commands.serverinfo
+2025-12-13 21:00:00,267 INFO:Loaded extension bot_commands.mute
+2025-12-13 21:00:00,269 INFO:Loaded extension bot_commands.unmute
+2025-12-13 21:00:00,270 INFO:Loaded extension bot_commands.kick
+2025-12-13 21:00:00,272 INFO:Loaded extension bot_commands.ban
+2025-12-13 21:00:00,274 INFO:Loaded extension bot_commands.unban
+2025-12-13 21:00:00,275 INFO:Loaded extension bot_commands.clear
+2025-12-13 21:00:00,277 INFO:Loaded extension bot_commands.roll
+2025-12-13 21:00:00,281 INFO:Loaded extension bot_commands.clone_category
+2025-12-13 21:00:00,283 INFO:Loaded extension bot_commands.restart
+2025-12-13 21:00:01,009 INFO:Music Cog initialized
+2025-12-13 21:00:01,009 INFO:Loaded extension bot_commands.music
